@@ -2,4 +2,4 @@
 
 | Package | Version | 
 | --- | --- |
-| niyaz-info-utils | 2022.0.0-utils |
+| [niyaz-info-utils](/packages/1409622) | 2022.0.0-utils |
